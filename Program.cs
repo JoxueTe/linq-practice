@@ -13,7 +13,13 @@
 //Console.WriteLine(queries.BooksPublishedIn2005());
 
 //Books with python category
-PrintValues(queries.BooksContainingPythonCategory());
+//PrintValues(queries.BooksContainingPythonCategory());
+
+//Java Books sorted by asc name
+//PrintValues(queries.BooksJavaAscending());
+
+// Books with more than 450 pages in descending order
+PrintValues(queries.BooksWithMoreThan450PagesAndDescending());
 
 void PrintValues(IEnumerable<Book> listOfBooks)
 {

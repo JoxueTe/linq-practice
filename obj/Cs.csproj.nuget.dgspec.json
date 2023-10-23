@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jox/Documents/Cs/linq-course/Cs.csproj": {}
+    "/home/jox/Documents/Cs/linq-practice/Cs.csproj": {}
   },
   "projects": {
-    "/home/jox/Documents/Cs/linq-course/Cs.csproj": {
+    "/home/jox/Documents/Cs/linq-practice/Cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jox/Documents/Cs/linq-course/Cs.csproj",
+        "projectUniqueName": "/home/jox/Documents/Cs/linq-practice/Cs.csproj",
         "projectName": "Cs",
-        "projectPath": "/home/jox/Documents/Cs/linq-course/Cs.csproj",
+        "projectPath": "/home/jox/Documents/Cs/linq-practice/Cs.csproj",
         "packagesPath": "/home/jox/.nuget/packages/",
-        "outputPath": "/home/jox/Documents/Cs/linq-course/obj/",
+        "outputPath": "/home/jox/Documents/Cs/linq-practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jox/.nuget/NuGet/NuGet.Config"

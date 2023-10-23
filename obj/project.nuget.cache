@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ew2fdHnRUNC27zlcD7BUYv8376qWnJBwBH4RPPgseElO3jV01A7lDHHHO+uqHuiOuiUW35u6+G5IEZPA7pnbkg==",
+  "dgSpecHash": "WH4FdqVfndu5ucza19JT5aVZBCwGHBT/FHouWQwglioyaJ3EPWZusRx99G/mtOJ20TulsAR084TlYio+KQMtuQ==",
   "success": true,
-  "projectFilePath": "/home/jox/Documents/Cs/linq-course/Cs.csproj",
+  "projectFilePath": "/home/jox/Documents/Cs/linq-practice/Cs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
